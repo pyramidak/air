@@ -1,9 +1,9 @@
 # pyramidak air firmware
 DIY smart home the easy way
-https://firm.jantac.net/
-1) Non-limiting hardware with schema and PCB that you can simply order from https://jlcpcb.com
-2) Full manual about pyramidak firmware, what all you can do with pyramidak smart switches
-3) How to easily connect pyramidak firmware to open central system like Home Assistant
+https://firm.jantac.net/hardware-en/
+1) Supported sensors of air quality PCB with schema that you can simply order from https://jlcpcb.com
+2) Full manual about pyramidak firmware, what all you can set.
+3) How to easily connect pyramidak firmware to open central system like Home Assistant, configuration and layout included.
 
 
 
