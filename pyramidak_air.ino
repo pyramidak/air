@@ -30,7 +30,8 @@ AmbientLight light;
 Anemometer wind;
 AnalogPercent rain;
 
-/// copyright Zdeněk Jantač, all rights reserved. This is NOT public open software.
+//Original idea of pyramidak firmware and its program was created by Zdeněk Jantač (pyramidak).
+//GITHUB: https://github.com/pyramidak/switch
 ///////////////////////////////////////////////////////////////////////////////////
 /// What is new
 /// 1.3.8 float temperature correction
